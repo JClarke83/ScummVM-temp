@@ -1,0 +1,2 @@
+# ScummVM-temp
+ScummVM
